@@ -1,0 +1,12 @@
+.category {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.category p {
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 8px 5px;
+}

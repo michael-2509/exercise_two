@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  display: flex;
+}
+.App li {
+  list-style: none;
+}
